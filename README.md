@@ -17,9 +17,9 @@ Welcome to the Reconnaissance Scripts repository! This collection of Python scri
 
 ##### **How to Use**: :dependabot: 
 
-◾Clone the repository to your local machine.
-◾Navigate to the script you want to use.
-◾ Run the script and follow any instructions provided.
+&nbsp;&nbsp;◾Clone the repository to your local machine.<br>
+&nbsp;&nbsp;◾Navigate to the script you want to use.<br>
+&nbsp;&nbsp;◾ Run the script and follow any instructions provided.<br>
 
 ##### **Scripts**: 🐲
 
