@@ -12,7 +12,7 @@ Welcome to the Reconnaissance Scripts repository! This collection of Python scri
 ##### **FEATURES** 🪶
 <p>
  HTTPS Validator:
- Check the validity of HTTPS support on websites. Quickly identify whether a site supports secure connections.
+ Check the validity of HTTPS support on websites. Quickly identify whether a site supports secure connections.<br>
  More scripts coming soon! 🦉
 
 ##### **How to Use**: :dependabot: 
