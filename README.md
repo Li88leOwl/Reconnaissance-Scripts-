@@ -29,6 +29,7 @@ The script provides basic error handling for connection errors. Depending on the
 <div align="center">
  More scripts coming soon! 🦉
 </div>
+
 ##### **How to Use**: :dependabot: 
 
 &nbsp;&nbsp;◾Clone the repository to your local machine.<br>
